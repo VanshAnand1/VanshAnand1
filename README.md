@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VanshAnand1
 - 👀 I have a passion for building
-- 🌱 I’m currently learning React, Typescript, and Firebase
-- 📫 Instagram: @vansh.a2006
+- 🌱 I’m currently learning Object Oriented Programming through Java
+- 📫 Linkedin: https://www.linkedin.com/in/vansh-anand-bb5852275/
 - 😄 Pronouns: he/him
