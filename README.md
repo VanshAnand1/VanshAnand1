@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VanshAnand1
 - 👀 I have a passion for building
 - 🌱 I’m currently learning Object Oriented Programming through Java
-- 📫 Linkedin: https://www.linkedin.com/in/vansh-anand-bb5852275/
+- 📫 Linkedin: https://www.linkedin.com/in/vanshanand1
 - 😄 Pronouns: he/him
