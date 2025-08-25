@@ -9,6 +9,8 @@ Computer Science Student at The University of Toronto Scarborough
 
 As a child, I had always been intrigued by the potential of technology, spending hours exploring how games and gadgets worked. That early curiosity quickly evolved into a passion for computer science, one that only deepened as I began to learn real programming languages and apply them to solve problems. Throughout high school, I built small tools, games, and websites, each one teaching me something new and pushing me further.
 
+As I pursue this passion through my formal education at the University of Toronto Scarborough, I only become more passionate. I am currently experimenting with different Python frameworks, Web Development, and Machine Learning technologies. I'm always interested in new opportunities, so don't hesitate to reach out!
+
 * 🌍  I'm based in Greater Toronto Area
 * 🖥️  See my portfolio at [https://vanshanand1.github.io/Portfolio/](http://vanshanand1.github.io/Portfolio/)
 * ✉️  You can contact me at [vanshanandutsc@gmail.com](mailto:vanshanandutsc@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vanshanand1/)
