@@ -13,7 +13,7 @@ As I pursue this passion through my formal education at the University of Toront
 
 * 🌍  I'm based in Greater Toronto Area
 * 🖥️  See my portfolio at [https://vanshanand1.github.io/Portfolio/](http://vanshanand1.github.io/Portfolio/)
-* ✉️  You can contact me at [vanshanandutsc@gmail.com](mailto:vanshanandutsc@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vanshanand1/)
+* ✉️  You can contact me at [vanshanandutsc@gmail.com](mailto:vansh.anand@mail.utoronto.ca) or connect with me on [LinkedIn](https://www.linkedin.com/in/vanshanand1/)
 * 🚀  Check out: [BLOG](https://github.com/VanshAnand1/BLOG) - [Live Site](https://blog-3ec.pages.dev/)
 
 ### Skills
